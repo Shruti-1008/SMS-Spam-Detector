@@ -17,7 +17,7 @@ The program checks an input message for common spam-related keywords such as:
 - prize
 - offer
 - money
-- 
+- urgent
 
 Each matching word increases the **Spam Score**.
 
