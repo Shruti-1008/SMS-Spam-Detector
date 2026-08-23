@@ -31,7 +31,7 @@ Congratulations! You won a free prize!
 
 ### Output:
 
-Prediction: S
+Prediction: SPAM
 Spam Score: 3
 
 ## How to Run:
