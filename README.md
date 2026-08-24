@@ -5,7 +5,7 @@ A simple Java-based spam detection project that classifies SMS messages as **SPA
 ## Technologies Used:
 ```
 - Java
-- Java Standard Libra
+- Java Standard Library
 ```
 
 ## How It Works:
