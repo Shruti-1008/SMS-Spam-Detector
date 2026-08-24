@@ -12,7 +12,7 @@ A simple Java-based spam detection project that classifies SMS messages as **SPA
 
 The program checks an input message for common spam-related keywords such as:
 
-- free
+- 
 - win
 - prize
 - offer
