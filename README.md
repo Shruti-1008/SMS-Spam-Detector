@@ -1,4 +1,4 @@
-# SMS Spam Detector
+# SMS Spam 
 
 A simple Java-based spam detection project that classifies SMS messages as **SPAM** or **NOT SPAM**.
 
