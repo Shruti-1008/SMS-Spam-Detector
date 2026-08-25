@@ -14,7 +14,7 @@ The program checks an input message for common spam-related keywords such as:
 
 - free
 - win
-- prize
+- pr
 - offer
 - money
 - urgent
