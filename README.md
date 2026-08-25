@@ -8,7 +8,7 @@ A simple Java-based spam detection project that classifies SMS messages as **SPA
 - Java Standard Library
 ```
 
-## How It W
+## How It Works
 
 The program checks an input message for common spam-related keywords such as:
 
