@@ -3,7 +3,7 @@
 A simple Java-based spam detection project that classifies SMS messages as **SPAM** or **NOT SPAM**.
 
 ## Technologies Used:
-these are the tech used for this proj
+
 ```
 - Java
 - Java Standard Library
