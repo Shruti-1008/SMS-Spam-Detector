@@ -1,4 +1,4 @@
-# SMS Spam Detectorb 87
+# SMS Spam Detector
 
 A simple Java-based spam detection project that classifies SMS messages as **SPAM** or **NOT SPAM**.
 
